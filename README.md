@@ -1,4 +1,4 @@
-### Current Functions
+### Current Functions (Javascript)
 - add (int1, int2) 
 - talk (string) 
 - subtract (int1, int2) 
